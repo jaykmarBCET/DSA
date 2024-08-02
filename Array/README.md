@@ -11,3 +11,9 @@
    - ##### advance sorting technique
    - ##### advance problem
   #                                     Start Now
+
+  ###### Create a array in java
+   ```java
+    int arr[] = new int[6]
+   ```
+ - note 6 is length of array by default all value is zero
