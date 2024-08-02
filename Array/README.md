@@ -1,18 +1,2 @@
-#WHat is Array
- -It is bunch of similar data type
- -It work on zero base index
-##Why we learn Array
- -If you have bounch os similar datatype 
-  ...java...
-   String name1;
-   String name2;
-   String name3;
-  then simply we can remove this bounch of data into a singal name 
-  like this
-
-  ```java
-   int x =0;
- ```
-
-  String[] name = new int[10];
-  
+#ARRAYS
+##this file have all array basic problem even advance
