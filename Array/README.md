@@ -12,7 +12,7 @@
    - ##### advance problem
   #                                     Start Now
 
-  ###### Create a array in java
+  ###### Create an array in java
    ```java
     int arr[] = new int[6]
    ```
