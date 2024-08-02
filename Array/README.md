@@ -10,10 +10,9 @@
   then simply we can remove this bounch of data into a singal name 
   like this
 
-  ...java
-
+  ```java
    int x =0;
-  ...
+ ```
 
   String[] name = new int[10];
   
